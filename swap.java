@@ -1,5 +1,5 @@
 //using the third variable.
-/*import java.util.*;
+import java.util.*;
 class swap
 {
 	public static void main(String[] args)
@@ -13,7 +13,7 @@ class swap
 		System.out.print(a);
 		System.out.print(b);
 	}
-}*/
+}
 
 //without using third variable.
 import java.util.*;
